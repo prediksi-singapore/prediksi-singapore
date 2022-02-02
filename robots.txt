@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-singapore.github.io/sitemap.xml
